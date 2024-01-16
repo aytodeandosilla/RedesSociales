@@ -1,6 +1,6 @@
 body {
   background-color: rgb(43, 163, 243);
-  color: rgb(5, 0, 0);
+  color: rgb(253, 250, 250);
   font-family: "Open Sans", sans-serif;
   letter-spacing: 2px;
 }
@@ -44,7 +44,7 @@ body {
 a {
   text-decoration: none;
 
-  color: rgb(0, 3, 5);
+  color: rgb(255, 255, 255);
   transition: color 1s;
 }
 
